@@ -1,4 +1,4 @@
-#Machine Learning Based Fault Diagnosis of Electric Drives
+# Machine Learning Based Fault Diagnosis of Electric Drives
 
 The project presents a time-based analysis of some critical and non-critical faults i.e., electrical and mechanical, using statistical feature extraction techniques to extract 
 information rich regions from the motor output data. This is followed by Machine Learning based multi-class classification to optimally identify various faults with 
