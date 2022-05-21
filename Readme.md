@@ -1,4 +1,6 @@
-presents a time-based analysis of some critical and non-critical faults i.e., electrical and mechanical, using statistical feature extraction techniques to extract 
+#Machine Learning Based Fault Diagnosis of Electric Drives
+
+The project presents a time-based analysis of some critical and non-critical faults i.e., electrical and mechanical, using statistical feature extraction techniques to extract 
 information rich regions from the motor output data. This is followed by Machine Learning based multi-class classification to optimally identify various faults with 
 high accuracy and short diagnosis time for appropriate corrective action. The classification accuracy is further enhanced using data validation and algorithm optimization
 techniques. The methodology was tested on validated VFD simulation model created on Simulink, MATLAB at various loading conditions. The results obtained showed high 
