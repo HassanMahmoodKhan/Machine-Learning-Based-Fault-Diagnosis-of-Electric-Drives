@@ -1,9 +1,0 @@
-Dear all,
-
-I have implemented each of the three supervised ML algorithms on MATLAB, initially. Once I had obtained
-the desired results, I implemented the KNN model on python in Google Colab.
-The python files for the remaining two have not been generated as of yet, since the results obtained were
-verfied. 
-
-Regards,
-Hassan 
